@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(204, 159, 159);
+}
+
+#cerceve {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
